@@ -1,0 +1,8 @@
+.user-table, .inventory-table {
+    width: 700px;
+    margin: 10px auto;
+}
+
+.user-table th, td {
+    border:1px solid grey;
+}
